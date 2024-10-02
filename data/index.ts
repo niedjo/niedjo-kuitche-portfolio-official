@@ -100,7 +100,7 @@ export const projects = [
     des: "Application simple qui permet de rédiger et de prévisualiser du texte au format Markdown en temps réel",
     img: "editeur.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "http://editeur-de-texte-en-react-js.onrender.com/",
   },
 ];
 
